@@ -1,5 +1,5 @@
 
-using Auchan_WebAPI.Repo;
+using Art_WebAPI.Repo;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.Options;
 using System.Net.Http.Headers;
@@ -9,17 +9,17 @@ using System.Text;
 using System.Text.Encodings.Web;
 using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Identity;
-using Auchan_WebAPI.Data;
+using Art_WebAPI.Data;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Globalization;
 using Microsoft.OpenApi.Any;
-using static Auchan_WebAPI.ErrorResponse;
+using static Art_WebAPI.ErrorResponse;
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace Auchan_WebAPI
+namespace Art_WebAPI
 {
     /// <summary>
     /// enable the serialization and deserialization of DateTime objects with a specific date and time format

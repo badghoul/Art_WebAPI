@@ -1,12 +1,12 @@
-﻿using Auchan_WebAPI.Models;
-using Auchan_WebAPI.Repo;
+﻿using Art_WebAPI.Models;
+using Art_WebAPI.Repo;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel;
 
-namespace Auchan_WebAPI.Controllers
+namespace Art_WebAPI.Controllers
 {
 
     [Authorize] // Apply authorization globally to the controller

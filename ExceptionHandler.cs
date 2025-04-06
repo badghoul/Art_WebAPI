@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Diagnostics;
 
-namespace Auchan_WebAPI
+namespace Art_WebAPI
 {
     public class ErrorResponse
     {

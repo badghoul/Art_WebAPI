@@ -1,6 +1,6 @@
-@Auchan_WebAPI_HostAddress = http://localhost:5084
+@Art_WebAPI_HostAddress = http://localhost:5084
 
-GET {{Auchan_WebAPI_HostAddress}}/art/
+GET {{Art_WebAPI_HostAddress}}/art/
 Accept: application/json
 
 ###

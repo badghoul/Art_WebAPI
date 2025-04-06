@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Auchan_WebAPI.Data
+namespace Art_WebAPI.Data
 {
     /// <summary>
     /// custom DbContext for managing user authentication and authorization 

@@ -4,9 +4,9 @@ using System.Globalization;
 using System.Reflection;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using Auchan_WebAPI;
+using Art_WebAPI;
 
-namespace Auchan_WebAPI.Models
+namespace Art_WebAPI.Models
 {
 
     public class Art

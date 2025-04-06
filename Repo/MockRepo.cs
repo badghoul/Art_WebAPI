@@ -1,7 +1,7 @@
-﻿using Auchan_WebAPI.Models;
+﻿using Art_WebAPI.Models;
 using System.Reflection.Metadata.Ecma335;
 
-namespace Auchan_WebAPI.Repo
+namespace Art_WebAPI.Repo
 {
     // interface for data access
     public interface IArtRepo

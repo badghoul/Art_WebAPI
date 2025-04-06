@@ -5,11 +5,10 @@
 
 ## Objective:
 
-## This test aims to assess your understanding of key concepts in building a REST API for articles using .NET. It will evaluate your knowledge of:
+## This test aims to assess key concepts in building a REST API for articles using .NET. It will include:
 
 ### .NET API framework: Creating controllers, routing, and handling HTTP requests.
-### Data models: Defining models representing articles and handling data access
-(simulated data or mock repository can be used).
+### Data models: Defining models representing articles and handling data access (simulated data or mock repository).
 ### RESTful principles: Designing resource-oriented endpoints following REST conventions.
 ### Serialization: Converting data objects to JSON for API responses.
 
@@ -18,10 +17,12 @@
 ## Develop a basic REST API for managing articles using .NET Web API. Any minimum two of the following functionalities are required:
 
 ### GET /api/articles: Retrieves a list of all articles.
-### GET /api/articles/{id}: Retrieves a single article by its ID. 3.  POST /api/articles: Creates a new article.
-### PUT /api/articles/{id}: Updates an existing article by its ID. 5.  DELETE /api/articles/{id}: Deletes an article by its ID.
+### GET /api/articles/{id}: Retrieves a single article by its ID.
+### POST /api/articles: Creates a new article.
+### PUT /api/articles/{id}: Updates an existing article by its ID. 
+### DELETE /api/articles/{id}: Deletes an article by its ID.
 
-Technical Requirements:
+## Technical Requirements:
 
 ### Use .NET 8
 ### Define a model class representing an article with properties like id, title, content, and publishedDate.
@@ -51,9 +52,8 @@ Technical Requirements:
 
 ## Additional Notes:
 
-### You are free to choose any specific version of .NET and related libraries for this project.
-### No specific database connection is required. Simulating data or using a mock repository
-is acceptable.
+### Using .NET and related libraries for this project.
+### No specific database connection is required. Simulating data or using a mock repository is acceptable.
 ### Feel free to ask clarifying questions
 
 # Design Document

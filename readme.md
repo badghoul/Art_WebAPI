@@ -54,7 +54,7 @@
 - Using .NET and related libraries for this project.
 - No specific database connection is required. Simulating data or using a mock repository is acceptable.
 
-# Design Document
+# Design
 
 ## Assumptions
 - Using .NET 8 Web API for developing the RESTful service.

@@ -1,5 +1,8 @@
 # Design Document
 
+### Author
+- Ciprian Prunoiu
+
 ## Assumptions
 - Using .NET 8 Web API for developing the RESTful service.
 - Mock repository is used to simulate data access, avoiding the need for a database.

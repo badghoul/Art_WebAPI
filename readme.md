@@ -53,7 +53,6 @@
 
 - Using .NET and related libraries for this project.
 - No specific database connection is required. Simulating data or using a mock repository is acceptable.
-- Feel free to ask clarifying questions
 
 # Design Document
 
